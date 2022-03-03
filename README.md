@@ -1,1 +1,1 @@
-# checkout-form-dynamic-with-js
+# checkout-form-2(dynamic)
